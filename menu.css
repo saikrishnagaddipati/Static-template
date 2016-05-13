@@ -1,0 +1,36 @@
+#title{
+	color: #679BB7;
+	text-align: center;
+	font-size: 160px;
+}
+#logo img{
+    height: 150px;
+	width: auto;
+    margin-top: 50px;
+}
+.item-name{
+	border:none;
+	border-bottom: 3px dashed #000000 !important;
+	font-weight: bold;
+    font-size: 50px;
+    margin-top: 50px;
+}
+.item-name, .price-list{
+	color: #4CAF87;
+	font-weight: bold;
+}
+.price-list{
+	text-align: left;
+    font-size: 50px;
+    margin-top: 50px;
+}
+.description{
+	color: #C1C1C1;
+	font-size: 35px;
+	height:25px;
+	width:100%;
+}
+#footer{
+    font-size: 30px;
+    margin-top: 50px;
+}
